@@ -2,5 +2,13 @@
     {
         "package": "fipio",
         "url": "https://github.com/program--/fipio"
+    },
+    {
+        "package": "logdec",
+        "url": "https://github.com/program--/logdec"
+    },
+    {
+        "package": "HSClientR",
+        "url": "https://github.com/program--/hsclientr"
     }
 ]
