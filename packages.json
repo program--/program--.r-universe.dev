@@ -4,6 +4,10 @@
         "url": "https://github.com/program--/fipio"
     },
     {
+        "package": "hilbert",
+        "url": "https://github.com/program--/hilbert"
+    },
+    {
         "package": "logdec",
         "url": "https://github.com/program--/logdec"
     },
